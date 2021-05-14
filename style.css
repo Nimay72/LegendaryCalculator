@@ -1,0 +1,230 @@
+body {
+
+  background-image: linear-gradient(rgb(0, 4, 255), purple);
+  height: 110vh;
+
+}
+
+.heading {
+
+  font-size: large;
+
+}
+
+.topband{
+  display: inline-block;
+}
+
+.container {
+  text-align: center;
+  margin-top: 23px;
+}
+
+
+table {
+
+  margin: auto;
+
+}
+
+input {
+
+  background-color: lime;
+  border: 5px solid black;
+  font-size: 30px;
+  border-radius: 23px;
+  text-align: right;
+  margin: 5px 10px;
+
+}
+
+
+button {
+
+  font-size: 40px;
+  background: yellow;
+  width: 91px;
+  height: 59px;
+  border: 6px solid #000000ab;
+  border-radius: 27px;
+
+}
+
+.calculator {
+
+  border: 2px solid black;
+  background-image: linear-gradient(rgb(0, 255, 157), rgb(194, 55, 90));
+  padding: 17px;
+  border-radius: 55px;
+  display: inline-block;
+
+}
+
+.leftbracket {
+
+  background-image: linear-gradient(rgb(229, 255, 0), rgb(128, 83, 0));
+  border: 6px solid black;
+
+}
+
+.rightbracket {
+
+  background-image: linear-gradient(rgb(229, 255, 0), rgb(128, 83, 0));
+  border: 6px solid black;
+
+}
+
+.percent {
+
+  background-image: linear-gradient(rgb(229, 255, 0), rgb(128, 83, 0));
+  border: 6px solid black;
+
+}
+
+.clear {
+
+  background-image: linear-gradient(rgb(229, 255, 0), rgb(128, 83, 0));
+  border: 6px solid black;
+
+}
+
+.one {
+
+  background-image: linear-gradient(rgb(229, 255, 0), rgb(128, 83, 0));
+  border: 6px solid black;
+
+}
+
+.two {
+
+  background-image: linear-gradient(rgb(229, 255, 0), rgb(128, 83, 0));
+  border: 6px solid black;
+
+}
+
+.three {
+
+  background-image: linear-gradient(rgb(229, 255, 0), rgb(128, 83, 0));
+  border: 6px solid black;
+
+}
+
+.four {
+
+  background-image: linear-gradient(rgb(229, 255, 0), rgb(128, 83, 0));
+  border: 6px solid black;
+  
+}
+
+.five {
+
+  background-image: linear-gradient(rgb(229, 255, 0), rgb(128, 83, 0));
+  border: 6px solid black;
+
+}
+
+.six {
+
+  background-image: linear-gradient(rgb(229, 255, 0), rgb(128, 83, 0));
+  border: 6px solid black;
+
+}
+
+.seven {
+
+  background-image: linear-gradient(rgb(229, 255, 0), rgb(128, 83, 0));
+  border: 6px solid black;
+
+}
+
+.eight {
+
+  background-image: linear-gradient(rgb(229, 255, 0), rgb(128, 83, 0));
+  border: 6px solid black;
+
+}
+
+.nine {
+
+  background-image: linear-gradient(rgb(229, 255, 0), rgb(128, 83, 0));
+  border: 6px solid black;
+
+}
+
+.zero {
+
+  background-image: linear-gradient(rgb(229, 255, 0), rgb(128, 83, 0));
+  border: 6px solid black;
+
+}
+
+.twozeroes {
+
+  background-image: linear-gradient(rgb(229, 255, 0), rgb(128, 83, 0));
+  border: 6px solid black;
+
+}
+
+.nothingone {
+
+  background-image: linear-gradient(rgb(255, 123, 0), rgb(255, 34, 5));
+  border: 6px solid black;
+
+}
+
+.nothingtwo {
+
+  background-image: linear-gradient(rgb(255, 123, 0), rgb(255, 34, 5));
+  border: 6px solid black;
+
+}
+
+.nothingthree {
+
+  background-image: linear-gradient(rgb(255, 123, 0), rgb(255, 34, 5));
+  border: 6px solid black;
+
+}
+
+.equal {
+
+  background-image: linear-gradient(rgb(229, 255, 0), rgb(128, 83, 0));
+  border: 6px solid black;
+
+}
+
+.plus {
+
+  background-image: linear-gradient(rgb(229, 255, 0), rgb(128, 83, 0));
+  border: 6px solid black;
+
+}
+
+.point {
+
+  background-image: linear-gradient(rgb(229, 255, 0), rgb(128, 83, 0));
+  border: 6px solid black;
+
+}
+
+.minus {
+
+  background-image: linear-gradient(rgb(229, 255, 0), rgb(128, 83, 0));
+  border: 6px solid black;
+
+}
+
+.multiply {
+
+  background-image: linear-gradient(rgb(229, 255, 0), rgb(128, 83, 0));
+  border: 6px solid black;
+
+}
+
+.divide {
+
+  background-image: linear-gradient(rgb(229, 255, 0), rgb(128, 83, 0));
+  border: 6px solid black;
+  
+}
+
