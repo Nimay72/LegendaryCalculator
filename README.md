@@ -1,1 +1,1 @@
-https://nimay72.github.io/LegendaryCalculator/
+# https://nimay72.github.io/LegendaryCalculator/
